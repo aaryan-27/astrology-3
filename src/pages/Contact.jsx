@@ -162,7 +162,7 @@ export default function Contact() {
       {/* Map Section */}
       <section className="h-96 w-full relative">
         <iframe 
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1m3!1m2!1s0x390d18df8ecf934b%3A0xc3f8e5c850eeffb1!2sVyapar%20Kendra%20Rd%2C%20Block%20C%2C%20Sushant%20Lok%20Phase%20I%2C%20Sector%2043%2C%20Gurugram%2C%20Haryana%20122009!5e0!3m2!1sen!2sin!4v1714000000000!5m2!1sen!2sin" 
+          src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=194,%20Vyapar%20Kendra%20Rd,%20Block%20C,%20Sushant%20Lok%20Phase%20I,%20Sector%2043,%20Gurugram,%20Haryana%20122009+(Consult%20Astro)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" 
           width="100%" 
           height="100%" 
           style={{ border: 0 }}
